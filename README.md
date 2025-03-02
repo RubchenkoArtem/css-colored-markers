@@ -1,0 +1,2 @@
+- Live Site URL: [Click](https://rubchenkoartem.github.io/css-colored-markers/)
+- ![Preview for the Web Site](perw.png)
